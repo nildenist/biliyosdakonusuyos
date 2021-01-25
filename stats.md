@@ -46,7 +46,7 @@ If we distinguish the male fast poisson process again with similar thinking as "
 
 So on a 10-hour workday <br/>
 
-E [Z <sub> t </sub>] = E [N <sub> t </sub> <sup> Male, S </sup> + N <sub> t </sub> <sup> Female, S </sup>] = E [N <sub> t </sub> <sup> Male, S </sup>] + E [N <sub> t </sub> <sup> Female, S </sup> ] = & lambda; <sub>t</sub> <sup> Male, S </sup> + & lambda; <sub>t</sub> <sup> Female, S </sup> = 86.4 * 10 + 25.2 * 10 = 1116 customer / hour and <br/>
+E [Z <sub> t </sub>] = E [N <sub> t </sub> <sup> Male, S </sup> + N <sub> t </sub> <sup> Female, S </sup>] = E [N <sub> t </sub> <sup> Male, S </sup>] + E [N <sub> t </sub> <sup> Female, S </sup> ] = &lambda; <sub>t</sub> <sup> Male, S </sup> + &lambda; <sub>t</sub> <sup> Female, S </sup> = 86.4 * 10 + 25.2 * 10 = 1116 customer / hour and <br/>
 
 Expected amount of shopping in a 10-hour working day as the average basket is 67.5 TL: <br/>
 
