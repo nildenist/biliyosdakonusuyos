@@ -70,12 +70,28 @@ b) What is the likelihood that the third woman who does shopping comes to the ma
 
 <img src="https://latex.codecogs.com/gif.latex?=1-{(\frac{(25.2*(1/4))^{0}*e^{-25.2*(1/4)})}{0!})&space;&plus;&space;(\frac{(25.2*(1/4))^{1}*e^{-25.2*(1/4)})}{1!})&space;&plus;&space;(\frac{(25.2*(1/4))^{2}*e^{-25.2*(1/4)})}{2!})}" title="=1-{(\frac{(25.2*(1/4))^{0}*e^{-25.2*(1/4)})}{0!}) + (\frac{(25.2*(1/4))^{1}*e^{-25.2*(1/4)})}{1!}) + (\frac{(25.2*(1/4))^{2}*e^{-25.2*(1/4)})}{2!})}" />
 
+
 <img src="https://latex.codecogs.com/gif.latex?=&space;1-&space;\left&space;\{&space;e^{-6.3}&space;&plus;&space;6.3&space;*&space;e^{-6.3}&space;&plus;&space;\frac{(6.3)^{2}}{2}&space;*&space;e^{-6.3}\right&space;\}" title="= 1- \left \{ e^{-6.3} + 6.3 * e^{-6.3} + \frac{(6.3)^{2}}{2} * e^{-6.3}\right \}" />
 
 
 = **0.95015**
 
 
+
+</div>
+</details>
+
+c) When is the woman mentioned in option b expected to come to the market?
+
+</div>
+<details>
+  <summary><b>Click here for the solution</b></summary>
+<br>
+<div id="q1" class="collapse">
+  
+<img src="https://latex.codecogs.com/gif.latex?E[T_{3}]&space;=&space;\frac{3}{\lambda&space;_{Female,S}}&space;=&space;\frac{3}{25.2}&space;=&space;0.119" title="E[T_{3}] = \frac{3}{\lambda _{Female,S}} = \frac{3}{25.2} = 0.119" /> hours.
+
+**It is expected to arrive in the 7th minute.**
 
 </div>
 </details>
