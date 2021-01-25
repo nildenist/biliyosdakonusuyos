@@ -65,15 +65,10 @@ b) What is the likelihood that the third woman who does shopping comes to the ma
 <br>
 <div id="q1" class="collapse">
   
-  
-![\Large p(T_3 \leq 15_(mins)) = p(T_3 \leq 1/4_(hours)) = 1- \sum_{k=0}^{2}\frac{e^{-\lambda(Female, S)^t}\lambda_((Female,S)^t)^{Female}}{Female_k!}](https://latex.codecogs.com/svg.latex?\Large&space;p(T_3 \leq 15_(mins)) = p(T_3 \leq 1/4_(hours)) = 1- \sum_{k=0}^{2}\frac{e^{-\lambda(Female, S)^t}\lambda_((Female,S)^t)^{Female}}{Female_k!}) 
+<img src="https://latex.codecogs.com/gif.latex?p(T_3&space;\leq&space;15_(mins))&space;=&space;p(T_3&space;\leq&space;1/4_(hours))&space;=&space;1-&space;\sum_{k=0}^{2}\frac{e^{-\lambda(Female,&space;S)^t}\lambda_((Female,S)^t)^{Female}}{Female_k!}" title="p(T_3 \leq 15_(mins)) = p(T_3 \leq 1/4_(hours)) = 1- \sum_{k=0}^{2}\frac{e^{-\lambda(Female, S)^t}\lambda_((Female,S)^t)^{Female}}{Female_k!}" />
 
 
-P{T <sub> 3 </sub> <= 15} = P{T <sub> 3 </sub> <sup> <= 1/4 hours} = E [N <sub> t </sub> <sup> Male, S </sup>] + E [N <sub> t </sub> <sup> Female, S </sup> ] = & lambda; <sub>t</sub> <sup> Male, S </sup> + & lambda; <sub>t</sub> <sup> Female, S </sup> = 86.4 * 10 + 25.2 * 10 = 1116 customer / hour and <br/>
 
-Expected amount of shopping in a 10-hour working day as the average basket is 67.5 TL: <br/>
-
-1116 * 67.5 TL = **75 330 TL.**
 
 </div>
 </details>
