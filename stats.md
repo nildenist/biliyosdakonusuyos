@@ -1,4 +1,4 @@
-<h4> Question  ##1: <br/>
+<h4> Question  #1: <br/>
 A market has 3 doors. Entries from the doors to the market per hour respectively &lambda; 1 = 110, &lambda; 2 = 90 and &lambda; 3=160 creates a poisson process with customer. <br/>
 
 30% of all customers are male. <br/>
