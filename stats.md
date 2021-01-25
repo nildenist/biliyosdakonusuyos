@@ -65,8 +65,15 @@ b) What is the likelihood that the third woman who does shopping comes to the ma
 <br>
 <div id="q1" class="collapse">
   
-<img src="https://latex.codecogs.com/gif.latex?p(T_3&space;\leq&space;15_(mins))&space;=&space;p(T_3&space;\leq&space;1/4_(hours))&space;=&space;1-&space;\sum_{k=0}^{2}\frac{e^{-\lambda(Female,&space;S)^t}\lambda_((Female,S)^t)^{Female}}{Female_k!}" title="p(T_3 \leq 15_(mins)) = p(T_3 \leq 1/4_(hours)) = 1- \sum_{k=0}^{2}\frac{e^{-\lambda(Female, S)^t}\lambda_((Female,S)^t)^{Female}}{Female_k!}" />
+<img src="https://latex.codecogs.com/gif.latex?p(T_3&space;\leq&space;15_(mins))&space;=&space;p(T_3&space;\leq&space;1/4_(hours))&space;=&space;1-&space;\sum_{k=0}^{2}\frac{e^{-\lambda(Female,&space;S)^t}\lambda_((Female,S)^t)^{k}}{k!}" title="p(T_3 \leq 15_(mins)) = p(T_3 \leq 1/4_(hours)) = 1- \sum_{k=0}^{2}\frac{e^{-\lambda(Female, S)^t}\lambda_((Female,S)^t)^{k}}{k!}" />
 
+
+<img src="https://latex.codecogs.com/gif.latex?=1-{(\frac{(25.2*(1/4))^{0}*e^{-25.2*(1/4)})}{0!})&space;&plus;&space;(\frac{(25.2*(1/4))^{1}*e^{-25.2*(1/4)})}{1!})&space;&plus;&space;(\frac{(25.2*(1/4))^{2}*e^{-25.2*(1/4)})}{2!})}" title="=1-{(\frac{(25.2*(1/4))^{0}*e^{-25.2*(1/4)})}{0!}) + (\frac{(25.2*(1/4))^{1}*e^{-25.2*(1/4)})}{1!}) + (\frac{(25.2*(1/4))^{2}*e^{-25.2*(1/4)})}{2!})}" />
+
+<img src="https://latex.codecogs.com/gif.latex?=&space;1-&space;\left&space;\{&space;e^{-6.3}&space;&plus;&space;6.3&space;*&space;e^{-6.3}&space;&plus;&space;\frac{(6.3)^{2}}{2}&space;*&space;e^{-6.3}\right&space;\}" title="= 1- \left \{ e^{-6.3} + 6.3 * e^{-6.3} + \frac{(6.3)^{2}}{2} * e^{-6.3}\right \}" />
+
+
+= **0.95015**
 
 
 
