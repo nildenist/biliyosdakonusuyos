@@ -32,8 +32,6 @@ We have n images so the features that we have will be **n x 10 000**
 CNN(Convolutional neural network).
 Because is a special kind of FFNN(Feed-forward neural network) that significantly reduces the number of parameters in a deep naural network with many units without losing the quality of the model. <br/>
 
-
-Source: https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X, p.65-70
 </div>
 </details>
 
@@ -47,7 +45,7 @@ Source: https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X,
 <div id="q1" class="collapse">
 
 Training neural network to recognize ***regions of the same information*** as well as the edges. This knowledge would allow the neural networks to predict the object represented in the image. <br/>
-If the neural network detected multiple skin as regions and edges that look lika parts of an oval with skin-like tone on the inside and bluish tone on the outside, it's a face on the sky background. <br/>
+If the neural network detected multiple skin as regions and edges that look like parts of an oval with skin-like tone on the inside and bluish tone on the outside, it's a face on the sky background. <br/>
 
 </div>
 </details>
@@ -83,3 +81,4 @@ The cells added by padding usually contains zeros. If **padding=0** it means tha
 </div>
 </details>
 
+Source: https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X, p.65-70
