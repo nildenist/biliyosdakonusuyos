@@ -32,6 +32,8 @@ We have n images so the features that we have will be **n x 10 000**
 CNN(Convolutional neural network).
 Because is a special kind of FFNN(Feed-forward neural network) that significantly reduces the number of parameters in a deep naural network with many units without losing the quality of the model. <br/>
 
+
+Source: https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X, p.65-70
 </div>
 </details>
 
